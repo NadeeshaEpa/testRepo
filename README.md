@@ -1,3 +1,5 @@
 # Repo-Git Practice
 
-## sub heading
+## Sub Heading
+
+Git practice Repo
